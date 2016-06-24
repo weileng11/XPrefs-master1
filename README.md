@@ -10,3 +10,4 @@ dependencies {
    compile 'com.huxq17.xprefs:xprefs:0.0.2'
 }
 ```
+sharedpreferences工具
